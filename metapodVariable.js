@@ -1,0 +1,11 @@
+var metapodHP = 50;
+var metapodNum = 11;
+var metapodType = "Bug";
+var metapodBestMove = "Harden";
+var metapodLastEvo = false;
+var metapodAttack = 20;
+var metapodDefense = 55;
+var metapodSpeed = 30;
+var metapodSpAttack = 25;
+var metapodSpDefense = 25;
+metapodHP = metapodHP - 50; 
