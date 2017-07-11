@@ -16,11 +16,11 @@ else if (compChoice == "Rock" && playerChoice == "Scissors"){
 }
 // Computer = Paper, Player = Rock
 else if (compChoice == "Paper" && playerChoice == "Rock"){
-    console.log("You Lose! Paper beats Rock")
+    console.log("You Lose! Paper beats Rock!")
 }
 // Computer = Paper, Player = Scissors
 else if (compChoice == "Paper" && playerChoice == "Scissors"){
-    console.log("You Win! Scissors beats Paper")
+    console.log("You Win! Scissors beats Paper!")
 }
 // Computer = Scissors, Player = Rock
 else if (compChoice == "Scissors" && playerChoice == "Rock"){
