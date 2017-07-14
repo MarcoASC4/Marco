@@ -14,3 +14,5 @@ function rand(num) {
     var result = Math.floor(randomNum);
     return result;
 }
+
+console.log(rand(5))
