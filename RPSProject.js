@@ -1,4 +1,4 @@
-var playerChoice = "Rock";
+var playerChoice = "Paper";
 
 var compChoices = ["Rock", "Paper", "Scissors"];
 var compChoice = compChoices[Math.floor(Math.random()*3)];
