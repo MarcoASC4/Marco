@@ -1,0 +1,26 @@
+
+
+.treePop {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    color: rgb(0, 0, 30);
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+body {
+    background-color: #52493A;
+    font-family: sans-serif; 
+    margin: 2% 20%;
+    color: white;
+}
+.treeBuilt {
+    color: white;
+    text-align: left;
+}
+

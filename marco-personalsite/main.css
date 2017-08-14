@@ -1,0 +1,16 @@
+.main {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255,222,173);
+}
+
+img {
+    height: 200px;
+    border-radius: 22%;
+}
+
+ul#idk li {
+    display: inline;
+}
